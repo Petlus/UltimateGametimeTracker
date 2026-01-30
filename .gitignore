@@ -40,3 +40,6 @@ yarn-error.log*
 .cache/
 .parcel-cache/
 .next/
+
+# Exclude Web Folder
+web/
